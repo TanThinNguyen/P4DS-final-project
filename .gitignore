@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 DataCollect
+*.pdf
+get_data.ipynb
